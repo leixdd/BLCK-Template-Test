@@ -68,7 +68,7 @@ const images = [
                         </li>
 
                         <li>
-                            <a class="text-gray-500 transition hover:text-red-500/75" href="/">
+                            <a class="text-gray-500 transition hover:text-red-500/75" href="https://discord.gg/blck" target="_blank">
                                 Community
                             </a>
                         </li>
