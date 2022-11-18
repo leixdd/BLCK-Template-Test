@@ -3,6 +3,7 @@ import { ref } from 'vue';
 import blck_logo from '../assets/lg1.png'
 import blck_logo_white from '../assets/lg2_white.png'
 import blck_logo_red from '../assets/lg3_red.png'
+import blck_bg from '../assets/blck_bg.jpg'
 
 import mpls7 from '../assets/mpls7.jpg'
 import mpls8 from '../assets/mpls8.jpg'
@@ -98,7 +99,7 @@ const images = [
 
 
     <section
-        class="-mt-16 relative bg-[url(https://res.cloudinary.com/dyqcnnbee/image/upload/v1666949757/294382849_472933781500594_2210939489900388422_n_t2bc8e.jpg)] bg-black bg-right-top bg-no-repeat">
+        class="-mt-16 relative bg-[url(/blck_bg.jpg)] bg-black bg-right-top bg-no-repeat">
         <div class="absolute inset-0 bg-black/75 sm:bg-transparent sm:bg-gradient-to-r sm:from-black/95 sm:to-black/50">
         </div>
 
